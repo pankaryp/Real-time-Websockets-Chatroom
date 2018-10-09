@@ -1,0 +1,7 @@
+#msg_panel {
+    width: 500px;
+    height: 200px;
+    overflow-x: auto;
+    border: 2px solid black;
+    font-family: monospace;
+}
