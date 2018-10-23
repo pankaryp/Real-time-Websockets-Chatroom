@@ -4,11 +4,15 @@
   "description": "Websockets real time chatroom",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
+    "dev": "nodemon server.js"
   },
   "author": "Panos Karypiadis",
   "license": "MIT",
   "dependencies": {
     "ws": "^6.1.0"
   }
+  "devDependencies":{
+    "nodemon": "^1.18.4"
+}
 }
