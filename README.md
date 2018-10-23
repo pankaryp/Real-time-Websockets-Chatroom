@@ -12,7 +12,7 @@
 In order to run an instance of the chatroom you must first start the websocket server.
 Inside the server directory run:
 ```
-node server.js
+npm run dev
 ```
 
 While the server is running, open two different browser windows from client/index.html.
