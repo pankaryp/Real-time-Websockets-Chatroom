@@ -1,6 +1,6 @@
-# Real-time-Websockets-Chatroom
+# real-time-websockets-chatroom
 
-![status in_progress](https://img.shields.io/badge/status-in_progress-brightgreen.svg)
+![code sample](https://img.shields.io/badge/code-sample-yellowgreen.svg?style=flat-square)
 
 > Real time chatroom with websockets and nodejs
 
